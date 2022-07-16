@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:padding="@dimen/_14sdp"
+    tools:context=".Activity.SignupActivity">
+
+  <ScrollView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content">
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center_vertical"
+          android:gravity="center"
+          android:orientation="vertical">
+
+          <TextView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_gravity="center"
+              android:layout_marginTop="@dimen/_14sdp"
+              android:fontFamily="cursive"
+              android:text="Friend Zone"
+              android:textColor="@color/black"
+              android:textSize="@dimen/_40ssp"
+              android:textStyle="bold" />
+
+          <View
+              android:layout_width="@dimen/_80sdp"
+              android:layout_height="@dimen/_3sdp"
+              android:layout_gravity="center_horizontal"
+              android:layout_marginBottom="@dimen/_14sdp"
+              android:background="@color/blue" />
+
+          <TextView
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:fontFamily="@font/gilroy_medium"
+              android:gravity="center"
+              android:lineSpacingExtra="@dimen/_6sdp"
+              android:text="@string/continue_with_friendzone_to_connect_with_different_nfriends"
+              android:textColor="@color/textcolor"
+              android:textSize="@dimen/_12ssp" />
+
+
+          <TextView
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:fontFamily="@font/gilroy_medium"
+              android:text="Name"
+              android:textColor="@color/black"
+              android:textSize="@dimen/_12ssp" />
+
+          <EditText
+              android:id="@+id/et_name"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="@dimen/_4sdp"
+              android:layout_marginBottom="@dimen/_12sdp"
+              android:fontFamily="@font/gilroy_medium"
+              android:hint="Enter Your Name" />
+
+          <TextView
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:fontFamily="@font/gilroy_medium"
+              android:text="Email"
+              android:textColor="@color/black"
+              android:textSize="@dimen/_12ssp" />
+
+          <EditText
+              android:id="@+id/etemail"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="@dimen/_4sdp"
+              android:layout_marginBottom="@dimen/_12sdp"
+              android:fontFamily="@font/gilroy_medium"
+              android:hint="Enter Your Email" />
+
+          <TextView
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:fontFamily="@font/gilroy_medium"
+              android:text="Mobile"
+              android:textColor="@color/black"
+              android:textSize="@dimen/_12ssp" />
+
+          <EditText
+              android:id="@+id/et_mobile"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="@dimen/_4sdp"
+              android:layout_marginBottom="@dimen/_12sdp"
+              android:fontFamily="@font/gilroy_medium"
+              android:hint="Enter Your Mobile" />
+
+          <TextView
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:fontFamily="@font/gilroy_medium"
+              android:text="Password"
+              android:textColor="@color/black"
+              android:textSize="@dimen/_12ssp" />
+
+          <EditText
+              android:id="@+id/et_password"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="@dimen/_4sdp"
+              android:layout_marginBottom="@dimen/_12sdp"
+              android:fontFamily="@font/gilroy_medium"
+              android:hint="*********" />
+
+          <androidx.cardview.widget.CardView
+              android:id="@+id/cv_signup"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              app:cardBackgroundColor="@color/red"
+              app:cardCornerRadius="@dimen/_4sdp">
+
+              <TextView
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+
+                  android:layout_gravity="center"
+                  android:layout_margin="@dimen/_10sdp"
+                  android:fontFamily="@font/gilroy_bold"
+                  android:text="SignUp"
+                  android:textColor="@color/white"
+                  android:textSize="@dimen/_14ssp"
+                  app:cardCornerRadius="@dimen/_4sdp" />
+          </androidx.cardview.widget.CardView>
+
+
+          <LinearLayout
+              android:id="@+id/ll_login"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginVertical="@dimen/_14sdp"
+              android:gravity="center">
+
+              <TextView
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:fontFamily="@font/gilroy_medium"
+                  android:text="Already Have An Account  "
+                  android:textColor="@color/black" />
+
+              <TextView
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:fontFamily="@font/gilroy_medium"
+                  android:text="Login "
+                  android:textColor="@color/blue" />
+          </LinearLayout>
+
+          <RelativeLayout
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginHorizontal="@dimen/_10sdp"
+              android:layout_marginVertical="@dimen/_16sdp">
+
+              <TextView
+                  android:id="@+id/or2"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_centerHorizontal="true"
+                  android:layout_marginHorizontal="@dimen/_4sdp"
+                  android:fontFamily="@font/gilroy_medium"
+                  android:gravity="center_vertical"
+                  android:text="OR"
+                  android:textColor="@color/black"
+                  android:textSize="16sp" />
+
+              <View
+                  android:layout_width="match_parent"
+                  android:layout_height="@dimen/_1sdp"
+                  android:layout_centerVertical="true"
+                  android:layout_toRightOf="@id/or2"
+                  android:background="@color/textcolor" />
+
+              <View
+                  android:layout_width="match_parent"
+                  android:layout_height="@dimen/_1sdp"
+                  android:layout_centerVertical="true"
+                  android:layout_toLeftOf="@id/or2"
+                  android:background="@color/textcolor" />
+
+          </RelativeLayout>
+
+          <LinearLayout
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:gravity="center">
+
+              <ImageView
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:src="@drawable/ic_google" />
+
+              <TextView
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:fontFamily="@font/gilroy_medium"
+                  android:text="Signup With Google "
+                  android:textColor="@color/black" />
+
+
+          </LinearLayout>
+
+
+      </LinearLayout>
+
+  </ScrollView>
+
+</LinearLayout>

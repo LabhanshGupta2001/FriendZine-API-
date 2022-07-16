@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FriendZone</string>
+    <string name="go_forward_to_see_photo_and_video_from_our_n_friends_zon">Go forward to see photos and video from your\n Friends Zones</string>
+    <string name="continue_with_friendzone_to_connect_with_different_nfriends">Continue with FriendZone to connect with different \nFriends</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_message">Enter Your message</string>
+</resources>

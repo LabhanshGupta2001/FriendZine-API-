@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FriendZone - Copy/app/src/main/res/layout/activity_chat_screen.xml" value="0.33" />
+        <entry key="..\:/FriendZone - Copy/app/src/main/res/layout/activity_chats.xml" value="0.1787037037037037" />
+        <entry key="..\:/FriendZone - Copy/app/src/main/res/layout/activity_dash_board.xml" value="0.20416666666666666" />
+        <entry key="..\:/FriendZone - Copy/app/src/main/res/layout/activity_login.xml" value="0.19010416666666666" />
+        <entry key="..\:/FriendZone - Copy/app/src/main/res/layout/activity_post_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/FriendZone - Copy/app/src/main/res/layout/activity_signup.xml" value="0.19010416666666666" />
+        <entry key="..\:/FriendZone - Copy/app/src/main/res/layout/activity_story.xml" value="0.20416666666666666" />
+        <entry key="..\:/FriendZone/app/src/main/res/drawable-v24/background_chats_input.xml" value="0.108" />
+        <entry key="..\:/FriendZone/app/src/main/res/drawable-v24/background_receive_message.xml" value="0.108" />
+        <entry key="..\:/FriendZone/app/src/main/res/drawable-v24/ic_arrow.xml" value="0.108" />
+        <entry key="..\:/FriendZone/app/src/main/res/drawable-v24/ic_baseline_clear_24.xml" value="0.108" />
+        <entry key="..\:/FriendZone/app/src/main/res/drawable-v24/ic_messenger.xml" value="0.108" />
+        <entry key="..\:/FriendZone/app/src/main/res/drawable-v24/ic_thumbs_up__2_.xml" value="0.108" />
+        <entry key="..\:/FriendZone/app/src/main/res/drawable/background_send_message.xml" value="0.108" />
+        <entry key="..\:/FriendZone/app/src/main/res/drawable/chats_background.xml" value="0.108" />
+        <entry key="..\:/FriendZone/app/src/main/res/drawable/gradient.xml" value="0.108" />
+        <entry key="..\:/FriendZone/app/src/main/res/drawable/ic_arrow_up.xml" value="0.108" />
+        <entry key="..\:/FriendZone/app/src/main/res/drawable/ic_back.xml" value="0.163" />
+        <entry key="..\:/FriendZone/app/src/main/res/drawable/ic_comment__1_.xml" value="0.108" />
+        <entry key="..\:/FriendZone/app/src/main/res/drawable/ic_google.xml" value="0.108" />
+        <entry key="..\:/FriendZone/app/src/main/res/drawable/ic_messenger.xml" value="0.108" />
+        <entry key="..\:/FriendZone/app/src/main/res/drawable/ic_play.xml" value="0.1785" />
+        <entry key="..\:/FriendZone/app/src/main/res/drawable/ic_send.xml" value="0.163" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout-land/activity_chat_screen.xml" value="0.19635416666666666" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout-sw600dp/activity_chat_screen.xml" value="0.12" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout-sw600dp/activity_story.xml" value="0.153125" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout-sw600dp/story_bottom_sheet.xml" value="0.1" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/activity_chat_screen.xml" value="0.16" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/activity_chats.xml" value="0.18" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/activity_chats_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/activity_dash_board.xml" value="0.25" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/activity_login.xml" value="0.16" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/activity_post_view.xml" value="0.1" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/activity_signup.xml" value="0.22" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/activity_story.xml" value="0.20416666666666666" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/fragment_postview_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/item_Story_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/item_chats.xml" value="0.20416666666666666" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/item_comments.xml" value="0.20416666666666666" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/item_container_receive_message.xml" value="0.20416666666666666" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/item_container_send_message.xml" value="0.16" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/item_post_layout.xml" value="0.22" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/item_story_layout.xml" value="0.22" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/post_bottom_sheet.xml" value="0.20416666666666666" />
+        <entry key="..\:/FriendZone/app/src/main/res/layout/story_bottom_sheet.xml" value="0.20416666666666666" />
+        <entry key="..\:/FriendZone/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1195" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
